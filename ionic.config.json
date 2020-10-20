@@ -1,0 +1,7 @@
+{
+  "name": "Mist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
